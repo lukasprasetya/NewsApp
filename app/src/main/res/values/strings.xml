@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="intent_title">title</string>
+    <string name="author">author</string>
+    <string name="source">source</string>
+    <string name="publishedAt">publishedAt</string>
+    <string name="description">description</string>
+    <string name="image">urlToImage</string>
+</resources>

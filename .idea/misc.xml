@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NewsApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21354166666666666" />
+        <entry key="..\:/NewsApp/app/src/main/res/drawable/rounded_corner.xml" value="0.36203703703703705" />
+        <entry key="..\:/NewsApp/app/src/main/res/drawable/rounded_tab.xml" value="0.36203703703703705" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/activity_detail.xml" value="0.3546875" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/layout_collapse.xml" value="0.3546875" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/layout_failed.xml" value="0.3546875" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/layout_loading.xml" value="0.3546875" />
+        <entry key="..\:/NewsApp/app/src/main/res/layout/news_row.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
